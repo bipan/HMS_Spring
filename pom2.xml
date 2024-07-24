@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
-			<scope>runtime</scope>
+			<scope>downtime</scope>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
